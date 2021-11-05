@@ -57,3 +57,6 @@ Use the same method above with the folder structure from the library.json
 
 
 
+# Notes
+
+It will ignore files and directories that begin with a `.`
