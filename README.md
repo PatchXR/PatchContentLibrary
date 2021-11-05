@@ -17,7 +17,7 @@ Files are accessible via:
 
 So the library.json can be pulled from 
 
-`https://raw.githubusercontent.com/weepy/PatchLibrary/master/library.json`
+`https://raw.githubusercontent.com/patchxr/PatchContentLibrary/master/library.json`
 
 which looks like 
 
