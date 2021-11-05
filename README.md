@@ -17,7 +17,7 @@ Files are accessible via:
 
 So the library.json can be pulled from 
 
-`https://raw.githubusercontent.com/patchxr/PatchContentLibrary/master/library.json`
+`https://raw.githubusercontent.com/patchXR/PatchContentLibrary/master/library.json`
 
 which looks like 
 
@@ -52,7 +52,7 @@ and the files can be accessed in the same way.
 
 Use the same method above with the folder structure from the library.json
 
-`https://raw.githubusercontent.com/patchxr/PatchContentLibrary/master/files/samples/vocals_drums.mp3`
+`https://raw.githubusercontent.com/patchXR/PatchContentLibrary/master/files/samples/vocals_drums.mp3`
 
 
 
