@@ -1,10 +1,19 @@
 [
   {
     "file": "Instrument_VooperFX.patch",
-    "category": "cats"
+    "category": "cats",
+	"dependencies": [	
+	"Powerblocks/BlooperGuts.pblock",
+	"Powerblocks/DubLooper.pblock",
+	"Powerblocks/WaveshapeDistortion.pblock",
+	"Powerblocks/phaser.pblock"
+	]
   },
   {
     "file": "Instrument_VooperFX.patch",
-    "category": "dogs"
+    "category": "dogs",
+	"dependencies": [	
+
+	]
   }
 ]
