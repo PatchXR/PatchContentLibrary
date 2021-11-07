@@ -1,7 +1,7 @@
 [
   {
-    "file": "Instrument_VooperFX.patch",
-    "category": "cats",
+    "file": "Instrument_Blooper.patch",
+    "category": "Blooper",
 	"dependencies": [	
 	"Powerblocks/BlooperGuts.pblock",
 	"Powerblocks/DubLooper.pblock",
@@ -11,7 +11,7 @@
   },
   {
     "file": "Instrument_VooperFX.patch",
-    "category": "dogs",
+    "category": "Vooper",
 	"dependencies": [	
 
 	]

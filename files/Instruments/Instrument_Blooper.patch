@@ -1,0 +1,67 @@
+version:181204
+scene_settings:{
+SetPlayerLimit 2 6 -0.350000023841858 2.5 -1.70000004768372 1.35000014305115
+bgcolor 0 0.184313729405403 0.403921574354172
+changefogdistance 41.1421890258789
+setMainLight 15.0128927230835 312.495269775391 -4.41972417775105E-07 0.133599922060966 0.0400000102818012 0.400000005960464
+SetTempo 147
+SetTime 489.356116062898
+SetGameMode Edit
+}
+spawn:{
+3 blooper2 allowConnectionOut:True offset:0 editMode:False isON:False size:1.909091 loopDurationID:10 hiddenLines:True visibles:[1] parts:[[93 0 0]] trans:[[0.1300367 2.482142 -0.2051258 -0.07554622 0.7110496 0.08256939 0.6941787] [0.13483 2.456396 -0.2121709 -0.5521767 0.4663432 0.549378 0.4192962]] paint:[[0.1386169 0.8396226 0.5378336] [1 1 1]] 
+19 landmark visib:False  trans:[[0.07454872 2.222028 -0.1882942 0.01317653 0.715013 -0.02511865 0.6985357]] paint:[[0 0 0]] 
+99 fluidslider unmovable state:0.0614351406693459 length:1 trans:[[0.3176241 1.561262 0.4508262 0.006291629 0.960614 -0.1875647 -0.2049414]] paint:[[0 0 0]] 
+93 powerblock visib:False outlets:[[0.04814766 0.2212417 0.5183708 0.02426933 -0.04840177 -0.001134634 -0.9985327]] src:"Powerblocks/BlooperGuts.pblock" offset:[0.2173862 2.191443 -0.004650566] menuOnBlocks:True disableInputs:False disableOutputs:False mixerId:"7F0AFC31/7F0AFC31/CF492A81/E25489FF" ~:[0|0|s] ti:["BlooperGuts"] trans:[[0.6707757 1.806059 -0.2417086 -0.04494381 0.8098193 0.04771087 0.5830067]] paint:[[0 0 0]] 
+5 extension visib:False ~:[0|0|s] trans:[[0.3098606 1.55425 0.4342516 0.006291629 0.960614 -0.1875647 -0.2049414] [0.2980505 1.925184 0.3025118 0.8294425 0.1300964 0.5423326 -0.03123674]] paint:[[0 0 0] [0 0 0]] 
+8 spacer visib:False extend:[0.05] ~:[32|0|s] trans:[[0.4849093 1.808621 -0.2984051 0.2020683 -0.7854906 0.06694487 -0.5811124]] paint:[[0 0 0]] 
+13 powerblock visib:False outlets:[[-0.03627632 0.2020184 0.6735837 0.05399245 0.05333562 0.6422167 -0.7627569]] src:"Powerblocks/DubLooper.pblock" offset:[2.210627 2.792746 -2.329336] menuOnBlocks:True disableInputs:False disableOutputs:False mixerId:"7F0AFC31/7F0AFC31/CF492A81/C8E54B5F" ~:[0|0|s 0|0|s 0|0|s 0|0|s] ti:["DubLooper"] trans:[[2.447467 2.291013 -0.7864573 -0.1224348 0.7382837 0.09847562 0.6559344]] paint:[[0 0 0]] 
+14 extension visib:False ~:[0|0|s] trans:[[2.102047 2.341447 -0.7443277 0.4323994 0.593917 0.5294755 0.4242046] [2.280674 2.381488 -0.7727579 -0.1224348 0.7382836 0.09847564 0.6559343]] paint:[[0 0 0] [0 0 0]] 
+15 spacer visib:False extend:[0.05] ~:[0.75|-2|s] trans:[[2.303921 2.310191 -0.7716168 -0.1224348 0.7382837 0.09847562 0.6559344]] paint:[[0 0 0]] 
+16 spacer visib:False extend:[0.05] ~:[0.86|-2|s] trans:[[2.312136 2.314061 -0.6971685 0.02394956 0.7479838 0.2245499 0.624119]] paint:[[0 0 0]] 
+17 spacer visib:False extend:[0.05] ~:[11000|3|s] trans:[[2.295707 2.306322 -0.8460652 -0.1224348 0.7382837 0.09847562 0.6559344]] paint:[[0 0 0]] 
+23 output visib:False distance:10 stereoSpatialMix:0.666 id:"7F0AFC31/7F0AFC31/CF492A81/2B4C5CBA" ~:[0|0|s 0|0|s] trans:[[3.340914 2.958257 -0.8572737 -0.4853829 0.4638429 0.6585661 0.339918]] paint:[[0 0 0]] 
+25 split visib:False ~:[0|0|s] trans:[[0.3222432 2.259185 -0.09383799 -0.8782375 -0.1807424 0.4329228 0.09278481] [1.987019 2.310103 -0.73483 0.4293277 0.5961414 0.5272784 0.4269323] [1.720494 2.312962 -0.6339355 0.5070509 0.6067859 0.457679 0.406498]] paint:[[0 0 0] [0 0 0] [0 0 0]] 
+26 output visib:False canBeGrabbed:True distance:10 stereoSpatialMix:0.88 id:"7F0AFC31/7F0AFC31/CF492A81/EC8024E3" ~:[0|0|s 0|0|s] trans:[[0.3333655 2.259574 -0.08450843 -0.8782375 -0.1807425 0.4329228 0.09278481]] paint:[[0 0 0]] 
+28 multiply visib:False ~:[0|-1|s 0|-1|s] trans:[[2.083196 2.336311 -0.7427709 0.4293278 0.5961412 0.5272785 0.4269323]] paint:[[0 0 0]] 
+41 powerblock visib:False outlets:[[0.004034042 0.2445444 0.3517411 0.05704764 0.06164839 -0.8153563 -0.572835]] src:"Powerblocks/WaveshapeDistortion.pblock" offset:[0.2594513 2.77421 -0.6148144] menuOnBlocks:True disableInputs:False disableOutputs:False mixerId:"7F0AFC31/7F0AFC31/CF492A81/32596DDB" ~:[0|0|s 0|0|s] ti:["WaveshapeDistortion"] trans:[[1.394248 2.002832 -0.484757 0.06041753 -0.8357425 -0.06578074 -0.5418094]] paint:[[0 0 0]] 
+31 split visib:False ~:[0|0|s] trans:[[1.085464 2.078709 -0.2680432 -0.2223019 0.8078973 -0.04118478 0.5442317] [2.021767 2.371312 -0.7416139 0.6764228 0.1196488 0.06926195 0.7234222] [0.3484669 1.936073 0.2791126 0.8294424 0.1300964 0.5423328 -0.03123675]] paint:[[0 0 0] [0 0 0] [0 0 0]] 
+32 txt visib:False width:0.245 height:0.047 fontsize:77.63882 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:True  tooltip:""""""ti:["delay"ti:["type"ti:["type"ti:["type here"] trans:[[-4.518248E-07 2.716894E-07 4.833527E-07 -1.490116E-08 -8.940697E-08 -2.980232E-08 1]] paint:[[0 0 0]] 
+6 powerblock visib:False outlets:[[-0.008948917 0.1518486 0.2812437 0.6571697 -0.08532496 -0.05185178 -0.7471008]] src:"Powerblocks/phaser.pblock" offset:[0.330366 0.9060611 -0.242849] menuOnBlocks:True disableInputs:False disableOutputs:False mixerId:"7F0AFC31/7F0AFC31/CF492A81/5664BBED" ~:[0|0|s 0|0|s 0|0|s] ti:["phaser"] trans:[[3.181184 2.618015 -0.8699988 -0.1085336 0.7367267 0.2097138 0.6336203]] paint:[[0 0 0]] 
+4 multiply visib:False ~:[0|-1|s 0.5|-1|s] trans:[[1.175232 2.096251 -0.3084665 -0.2223019 0.8078973 -0.04118499 0.5442318]] paint:[[0 0 0]] 
+10 spacer visib:False extend:[0.05] ~:[1|0|s] trans:[[3.043877 2.632364 -0.9207169 0.2501763 -0.7013968 -0.08207092 -0.6623588]] paint:[[0 0 0]] 
+7 slider unmovable visib:False state:1 length:0.3 tooltip:"pull" trans:[[-0.1174247 2.174878 -0.3219727 -0.6376503 -0.4082501 0.2201006 -0.6150528]] paint:[[0 0 0]] 
+9 stoe unmovable visib:False allowConnectionOut:True canBeGrabbed:True type:Default frequency:90 ~:[0|-1|s] trans:[[-0.1063502 2.126674 -0.3292991 0.7050435 0.2760064 -0.09588054 0.6461746]] paint:[[0 0 0]] 
+24 multiply visib:False ~:[0|-1|s 0.5|-1|s] trans:[[3.335468 2.971662 -0.8560303 -0.1458836 0.6553357 0.7364261 -0.08324811]] paint:[[0 0 0]] 
+27 oscillator visib:False wave:sin phase:0 ~:[4.3636|-4|s 0|0|s] trans:[[3.025496 2.594161 -0.7683929 -0.03627056 -0.7437944 -0.328509 -0.5809788]] paint:[[0 0 0]] 
+29 map visib:False ~:[0|-1|s 1|0|s -1|-1|s 15000|3|s 1000|2|s] trans:[[3.069901 2.616488 -0.7738472 0.4441996 0.5976893 0.5963272 0.2997472]] paint:[[0 0 0]] 
+34 constant visib:False type:beatTime  trans:[[2.633272 2.570111 -0.6967536 -0.8052143 0.5743927 0.126276 -0.07587927]] paint:[[0 0 0]] 
+38 multiply visib:False ~:[0|-1|s 0.25|-2|s] trans:[[2.844504 2.503155 -0.7461597 -0.4433878 -0.5982918 -0.5959197 -0.3005566]] paint:[[0 0 0]] 
+39 divide visib:False ~:[1|0|s 1.83333|-5|s] trans:[[2.755696 2.458502 -0.7352507 -0.4433858 -0.5982934 -0.5959187 -0.3005586]] paint:[[0 0 0]] 
+}
+connections:{
+3 ':[[[93 4]] [[93 3]] [[93 5]] [[93 0]] [[93 1]] [[93 2]] [[8 0]]]
+93 ':[[[3 0]] []]
+5 <:[[31 0]]
+14 <:[[13 1]]
+25 <:[[26 0] [28 0]]
+31 <:[[4 0] [28 1]]
+9 ':[[[3 2]]]
+34 ':[[[39 1]]]
+}
+mixer:{
+mixer_setGain 8EDF5EDF/F17F5C72 1
+mixer_setGain 8EDF5EDF/7FB745DB 1
+mixer_setGain 8EDF5EDF/190EA650 1
+mixer_setGain 7F0AFC31/7F0AFC31/CF492A81/2B4C5CBA 1
+mixer_setGain 7F0AFC31/7F0AFC31/CF492A81/EC8024E3 1
+mixer_setGain CF492A81/7F0AFC31/CF492A81/2B4C5CBA 1
+mixer_setGain CF492A81/7F0AFC31/CF492A81/EC8024E3 1
+mixer_setGain 2C2CDC0C 1
+mixer_setGain AB4CEB6A 1
+mixer_setGain 57B26AF3 1
+mixer_setGain 3083B6EF/D4FF5E98/D4FF5E98/728A4FBE 1
+mixer_setGain D4FF5E98/D4FF5E98/D4FF5E98/728A4FBE 1
+mixer_setGain 27C44942/27C44942/27C44942/27C44942/44E26195 1
+mixer_arrange  8EDF5EDF/F17F5C72 8EDF5EDF/7FB745DB 8EDF5EDF/190EA650 7F0AFC31/7F0AFC31/CF492A81/2B4C5CBA 7F0AFC31/7F0AFC31/CF492A81/EC8024E3 CF492A81/7F0AFC31/CF492A81/2B4C5CBA CF492A81/7F0AFC31/CF492A81/EC8024E3 2C2CDC0C AB4CEB6A 57B26AF3 3083B6EF/D4FF5E98/D4FF5E98/728A4FBE D4FF5E98/D4FF5E98/D4FF5E98/728A4FBE 27C44942/27C44942/27C44942/27C44942/44E26195
+}
