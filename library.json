@@ -1,15 +1,25 @@
 {
-    "version": 7,
-    "createdAt": "2021-11-05T10:22:17.654Z",
+    "version": 9,
+    "createdAt": "2021-11-24T22:47:07.897Z",
     "files": {
-        "images": {
-            "cat.jpg": 1,
-            "nested": {
-                "cat.jpg": 1
-            }
+        "Instruments": {
+            "Instruments.json": 1,
+            "Instrument_Blooper.patch": 1,
+            "Instrument_VooperFX.patch": 1,
+            "Instrument_VooperFX.png": 1
         },
-        "sounds": {
-            "cat.mid": 1
+        "Meshes": {
+            "cerebroP.mtl": 1,
+            "cerebroP.obj": 1
+        },
+        "Powerblocks": {
+            "BlooperGuts.pblock": 1,
+            "DubLooper.pblock": 1,
+            "phaser.pblock": 1,
+            "WaveshapeDistortion.pblock": 1
+        },
+        "Samples": {
+            "Chord loop.wav": 1
         }
     }
 }
