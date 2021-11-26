@@ -1,6 +1,6 @@
 {
-    "version": 10,
-    "createdAt": "2021-11-25T22:11:22.223Z",
+    "version": 11,
+    "createdAt": "2021-11-26T13:16:43.532Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -19,9 +19,85 @@
             "WaveshapeDistortion.pblock": 1
         },
         "Samples": {
+            "Bass": {
+                "Acid melo.wav": 1,
+                "Busted.wav": 1,
+                "Buzzer.wav": 1,
+                "Dark.wav": 1,
+                "Rush.wav": 1,
+                "Tough.wav": 1,
+                "Tweaked.wav": 1
+            },
             "Chord loop.wav": 1,
+            "Drums": {
+                "Claps 1.wav": 1,
+                "Claps 2.wav": 1,
+                "Claps 3.wav": 1,
+                "Claps 4.wav": 1,
+                "Claps 5.wav": 1,
+                "Claps 6.wav": 1,
+                "Claps 7.wav": 1,
+                "Clav 1.wav": 1,
+                "Clav 2.wav": 1,
+                "Cymb 1.wav": 1,
+                "Cymb 2.wav": 1,
+                "Hihat Closed 1.wav": 1,
+                "Hihat Closed 2.wav": 1,
+                "Hihat Closed 3.wav": 1,
+                "Hihat Closed 4.wav": 1,
+                "Hihat Closed 5.wav": 1,
+                "Hihat Closed 6.wav": 1,
+                "Hihat Closed 7.wav": 1,
+                "Kick 1.wav": 1,
+                "Kick 2.wav": 1,
+                "Kick 3.wav": 1,
+                "Kick 4.wav": 1,
+                "Kick 5.wav": 1,
+                "Kick 6.wav": 1,
+                "Ride 1.wav": 1,
+                "Ride 2.wav": 1,
+                "Shaker 1.wav": 1,
+                "Shaker 2.wav": 1,
+                "Snare 1.wav": 1,
+                "Snare 2.wav": 1,
+                "Snare 3.wav": 1,
+                "Snare 4.wav": 1,
+                "Snare 5.wav": 1,
+                "Snare 6.wav": 1,
+                "Snare 7.wav": 1,
+                "Snare 8.wav": 1,
+                "Timbale 1.wav": 1,
+                "Timbale 2.wav": 1,
+                "Tom 1.wav": 1,
+                "Tom 2.wav": 1,
+                "Vibraslap.WAV": 1
+            },
+            "Effects": {
+                "Bounce.wav": 1,
+                "Bouz.wav": 1,
+                "Drip.wav": 1,
+                "Howl.wav": 1,
+                "Impact 1.wav": 1,
+                "Impact 2.wav": 1,
+                "Impact 3.wav": 1,
+                "Impact 4.wav": 1,
+                "Impact 5.wav": 1,
+                "Sweep 1.wav": 1,
+                "Sweep 2.wav": 1,
+                "Sweep 3.wav": 1,
+                "Zap.wav": 1
+            },
             "NestedTest": {
                 "Effects.wav": 1
+            },
+            "Synths": {
+                "Synth 1.wav": 1,
+                "Synth 2.wav": 1,
+                "Synth 3.wav": 1,
+                "Synth 4.wav": 1,
+                "Synth 5.wav": 1,
+                "Synth 6.wav": 1,
+                "Synth 7.wav": 1
             }
         }
     }
