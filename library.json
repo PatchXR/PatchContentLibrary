@@ -1,6 +1,6 @@
 {
-    "version": 11,
-    "createdAt": "2021-11-26T13:16:43.532Z",
+    "version": 12,
+    "createdAt": "2021-11-29T13:36:50.947Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -86,9 +86,6 @@
                 "Sweep 2.wav": 1,
                 "Sweep 3.wav": 1,
                 "Zap.wav": 1
-            },
-            "NestedTest": {
-                "Effects.wav": 1
             },
             "Synths": {
                 "Synth 1.wav": 1,
