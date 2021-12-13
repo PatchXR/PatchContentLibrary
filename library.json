@@ -1,6 +1,6 @@
 {
-    "version": 16,
-    "createdAt": "2021-12-02T13:43:16.885Z",
+    "version": 17,
+    "createdAt": "2021-12-13T14:42:06.235Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -9,6 +9,14 @@
             "Instrument_VooperFX.png": 1
         },
         "Meshes": {
+            "bathtub": {
+                "bathtub.mtl": 1,
+                "bathtub.obj": 1,
+                "DefaultMaterial_Base_Color_1001.png": 1,
+                "DefaultMaterial_Height_1001.png": 1,
+                "DefaultMaterial_Metallic_1001.png": 1,
+                "DefaultMaterial_Roughness_1001.png": 1
+            },
             "box stick": {
                 "box_stick.mtl": 1,
                 "box_stick.obj": 1,
