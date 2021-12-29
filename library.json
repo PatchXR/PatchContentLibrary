@@ -1,6 +1,6 @@
 {
-    "version": 17,
-    "createdAt": "2021-12-13T14:42:06.235Z",
+    "version": 18,
+    "createdAt": "2021-12-29T13:43:17.818Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -26,7 +26,10 @@
                 "DefaultMaterial_Roughness_1001.png": 1
             },
             "cerebroP.mtl": 1,
-            "cerebroP.obj": 1
+            "cerebroP.obj": 1,
+            "wolf": {
+                "wolf.obj": 1
+            }
         },
         "Powerblocks": {
             "BlooperGuts.pblock": 1,
