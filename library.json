@@ -1,6 +1,6 @@
 {
-    "version": 20,
-    "createdAt": "2022-01-24T14:47:38.109Z",
+    "version": 21,
+    "createdAt": "2022-01-24T15:05:07.786Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -27,6 +27,14 @@
             },
             "cerebroP.mtl": 1,
             "cerebroP.obj": 1,
+            "stage_mini_venus": {
+                "stage_mini_venus.mtl": 1,
+                "stage_mini_venus.obj": 1,
+                "T_miniVenus_Base_Color_1001.png": 1,
+                "T_miniVenus_Metallic_1001.png": 1,
+                "T_miniVenus_N_OpenGL_1001.png": 1,
+                "T_miniVenus_Roughness_1001.png": 1
+            },
             "stage_petal": {
                 "stage_petal.mtl": 1,
                 "stage_petal.obj": 1,
