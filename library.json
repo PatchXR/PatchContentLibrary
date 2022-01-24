@@ -1,6 +1,6 @@
 {
-    "version": 18,
-    "createdAt": "2021-12-29T13:43:17.818Z",
+    "version": 19,
+    "createdAt": "2022-01-24T11:28:09.767Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -27,6 +27,14 @@
             },
             "cerebroP.mtl": 1,
             "cerebroP.obj": 1,
+            "stage_petal": {
+                "stage_petal.mtl": 1,
+                "stage_petal.obj": 1,
+                "T_Base_Color_1001.png": 1,
+                "T_Metallic_1001.png": 1,
+                "T_Normal_OpenGL_1001.png": 1,
+                "T_Roughness_1001.png": 1
+            },
             "wolf": {
                 "wolf.obj": 1
             }
