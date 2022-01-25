@@ -1,6 +1,6 @@
 {
-    "version": 22,
-    "createdAt": "2022-01-25T09:36:27.034Z",
+    "version": 23,
+    "createdAt": "2022-01-25T14:48:03.344Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -56,6 +56,20 @@
                 "T_Metallic_1001.png": 1,
                 "T_Normal_OpenGL_1001.png": 1,
                 "T_Roughness_1001.png": 1
+            },
+            "stage_shatter": {
+                "stage_broken.mtl": 1,
+                "stage_shatter.obj": 1,
+                "T_stage_Base_Color_1001.png": 1,
+                "T_stage_Metallic_1001.png": 1,
+                "T_stage_Roughness_1001.png": 1
+            },
+            "stage_star": {
+                "stage_star.mtl": 1,
+                "stage_star.obj": 1,
+                "T_starl_Metallic_1001.png": 1,
+                "T_star_Base_Color_1001.png": 1,
+                "T_star_Roughness_1001.png": 1
             },
             "stage_venus": {
                 "stage_venus.mtl": 1,
