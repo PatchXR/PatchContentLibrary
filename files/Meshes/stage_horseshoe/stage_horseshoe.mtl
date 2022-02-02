@@ -1,7 +1,7 @@
-# Blender MTL File: 'None'
+# Blender MTL File: 'stage_petal.blend'
 # Material Count: 1
 
-newmtl Default_OBJ
+newmtl Default_OBJ.004
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -10,6 +10,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Bump T_diam_Normal_OpenGL_1001.png
-map_Kd T_diam_Base_Color_1001.png
-map_Ns T_diaml_Roughness_1001.png
+map_Kd T_horseshoe_Base_Color_1001.png
+map_Ns T_horseshoel_Roughness_1001.png
+refl T_horseshoel_Metallic_1001.png
