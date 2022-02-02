@@ -1,6 +1,6 @@
 {
-    "version": 18,
-    "createdAt": "2021-12-29T13:43:17.818Z",
+    "version": 23,
+    "createdAt": "2022-01-25T14:48:03.344Z",
     "files": {
         "Instruments": {
             "Instruments.json": 1,
@@ -27,6 +27,58 @@
             },
             "cerebroP.mtl": 1,
             "cerebroP.obj": 1,
+            "horseshoe": {
+                "stage_horseshoe.mtl": 1,
+                "stage_horseshoe.obj": 1,
+                "T_horseshoel_Metallic_1001.png": 1,
+                "T_horseshoel_Roughness_1001.png": 1,
+                "T_horseshoe_Base_Color_1001.png": 1
+            },
+            "stage_diamond": {
+                "stage_diamond.mtl": 1,
+                "stage_diamond.obj": 1,
+                "T_diaml_Roughness_1001.png": 1,
+                "T_diam_Base_Color_1001.png": 1,
+                "T_diam_Normal_OpenGL_1001.png": 1
+            },
+            "stage_mini_venus": {
+                "stage_mini_venus.mtl": 1,
+                "stage_mini_venus.obj": 1,
+                "T_miniVenus_Base_Color_1001.png": 1,
+                "T_miniVenus_Metallic_1001.png": 1,
+                "T_miniVenus_N_OpenGL_1001.png": 1,
+                "T_miniVenus_Roughness_1001.png": 1
+            },
+            "stage_petal": {
+                "stage_petal.mtl": 1,
+                "stage_petal.obj": 1,
+                "T_Base_Color_1001.png": 1,
+                "T_Metallic_1001.png": 1,
+                "T_Normal_OpenGL_1001.png": 1,
+                "T_Roughness_1001.png": 1
+            },
+            "stage_shatter": {
+                "stage_broken.mtl": 1,
+                "stage_shatter.obj": 1,
+                "T_stage_Base_Color_1001.png": 1,
+                "T_stage_Metallic_1001.png": 1,
+                "T_stage_Roughness_1001.png": 1
+            },
+            "stage_star": {
+                "stage_star.mtl": 1,
+                "stage_star.obj": 1,
+                "T_starl_Metallic_1001.png": 1,
+                "T_star_Base_Color_1001.png": 1,
+                "T_star_Roughness_1001.png": 1
+            },
+            "stage_venus": {
+                "stage_venus.mtl": 1,
+                "stage_venus.obj": 1,
+                "T_Venus_Base_Color_1001.png": 1,
+                "T_Venus_Metallic_1001.png": 1,
+                "T_Venus_Normal_OpenGL_1001.png": 1,
+                "T_Venus_Roughness_1001.png": 1
+            },
             "wolf": {
                 "wolf.obj": 1
             }
