@@ -1,5 +1,11 @@
 [
   {
+    "file": "80BD.patch",
+    "category": "Drums",
+	"dependencies": [	
+	]
+  },
+  {
     "file": "Instrument_Blooper.patch",
     "category": "Fluid Echoes",
 	"dependencies": [	
