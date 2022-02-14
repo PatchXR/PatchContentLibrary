@@ -1,7 +1,7 @@
 [
   {
     "file": "Instrument_Blooper.patch",
-    "category": "EP's",
+    "category": "Fluid Echoes",
 	"dependencies": [	
 	"Powerblocks/BlooperGuts.pblock",
 	"Powerblocks/DubLooper.pblock",
@@ -11,7 +11,7 @@
   },
   {
     "file": "Instrument_VooperFX.patch",
-    "category": "EP's",
+    "category": "Fluid Echoes",
 	"dependencies": [	
 	]
   }
