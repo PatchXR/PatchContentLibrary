@@ -4,21 +4,5 @@
     "category": "Drums",
 	"dependencies": [	
 	]
-  },
-  {
-    "file": "Instrument_Blooper.patch",
-    "category": "Fluid Echoes",
-	"dependencies": [	
-	"Powerblocks/BlooperGuts.pblock",
-	"Powerblocks/DubLooper.pblock",
-	"Powerblocks/WaveshapeDistortion.pblock",
-	"Powerblocks/phaser.pblock"
-	]
-  },
-  {
-    "file": "Instrument_VooperFX.patch",
-    "category": "Fluid Echoes",
-	"dependencies": [	
-	]
   }
 ]

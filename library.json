@@ -1,13 +1,10 @@
 {
-    "version": 24,
-    "createdAt": "2022-02-14T15:31:09.610Z",
+    "version": 25,
+    "createdAt": "2022-02-16T18:05:28.906Z",
     "files": {
         "Instruments": {
             "80BD.patch": 1,
-            "Instruments.json": 1,
-            "Instrument_Blooper.patch": 1,
-            "Instrument_VooperFX.patch": 1,
-            "Instrument_VooperFX.png": 1
+            "Instruments.json": 1
         },
         "Meshes": {
             "bathtub": {
@@ -28,19 +25,19 @@
             },
             "cerebroP.mtl": 1,
             "cerebroP.obj": 1,
-            "horseshoe": {
+            "stage_diamond_wood": {
+                "stage_diamond_wood.mtl": 1,
+                "stage_diamond_wood.obj": 1,
+                "T_diaml_Roughness_1001.png": 1,
+                "T_diam_Base_Color_1001.png": 1,
+                "T_diam_Normal_OpenGL_1001.png": 1
+            },
+            "stage_horseshoe": {
                 "stage_horseshoe.mtl": 1,
                 "stage_horseshoe.obj": 1,
                 "T_horseshoel_Metallic_1001.png": 1,
                 "T_horseshoel_Roughness_1001.png": 1,
                 "T_horseshoe_Base_Color_1001.png": 1
-            },
-            "stage_diamond": {
-                "stage_diamond.mtl": 1,
-                "stage_diamond.obj": 1,
-                "T_diaml_Roughness_1001.png": 1,
-                "T_diam_Base_Color_1001.png": 1,
-                "T_diam_Normal_OpenGL_1001.png": 1
             },
             "stage_mini_venus": {
                 "stage_mini_venus.mtl": 1,
@@ -60,6 +57,7 @@
             },
             "stage_shatter": {
                 "stage_broken.mtl": 1,
+                "stage_shatter.mtl": 1,
                 "stage_shatter.obj": 1,
                 "T_stage_Base_Color_1001.png": 1,
                 "T_stage_Metallic_1001.png": 1,
@@ -83,12 +81,6 @@
             "wolf": {
                 "wolf.obj": 1
             }
-        },
-        "Powerblocks": {
-            "BlooperGuts.pblock": 1,
-            "DubLooper.pblock": 1,
-            "phaser.pblock": 1,
-            "WaveshapeDistortion.pblock": 1
         },
         "Samples": {
             "Bass": {
