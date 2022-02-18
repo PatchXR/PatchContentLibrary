@@ -1,13 +1,21 @@
 {
-    "version": 28,
-    "createdAt": "2022-02-18T13:22:19.873Z",
+    "version": 29,
+    "createdAt": "2022-02-18T15:55:02.854Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
             "80BassDrum.png": 1,
             "80SnareDrum.patch": 1,
             "80SnareDrum.png": 1,
-            "Instruments.json": 1
+            "Blooper.patch": 1,
+            "Blooper.png": 1,
+            "Booper.patch": 1,
+            "Booper.png": 1,
+            "BubbleMaker.patch": 1,
+            "BubbleMaker.png": 1,
+            "Instruments.json": 1,
+            "Vooper.patch": 1,
+            "Vooper.png": 1
         },
         "Meshes": {
             "bathtub": {

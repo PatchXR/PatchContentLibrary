@@ -10,5 +10,29 @@
     "category": "Drums",
 	"dependencies": [	
 	]
+  },
+  {
+    "file": "Blooper.patch",
+    "category": "Fluid Echoes",
+	"dependencies": [	
+	]
+  },
+  {
+    "file": "Booper.patch",
+    "category": "Fluid Echoes",
+	"dependencies": [	
+	]
+  },
+  {
+    "file": "BubbleMaker.patch",
+    "category": "Fluid Echoes",
+	"dependencies": [	
+	]
+  },
+  {
+    "file": "Vooper.patch",
+    "category": "Fluid Echoes",
+	"dependencies": [	
+	]
   }
 ]
