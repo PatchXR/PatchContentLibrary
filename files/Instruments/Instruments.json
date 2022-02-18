@@ -4,5 +4,11 @@
     "category": "Drums",
 	"dependencies": [	
 	]
+  },
+  {
+    "file": "80SnareDrum.patch",
+    "category": "Drums",
+	"dependencies": [	
+	]
   }
 ]

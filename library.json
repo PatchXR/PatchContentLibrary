@@ -1,10 +1,12 @@
 {
-    "version": 27,
-    "createdAt": "2022-02-18T10:44:20.791Z",
+    "version": 28,
+    "createdAt": "2022-02-18T13:22:19.873Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
             "80BassDrum.png": 1,
+            "80SnareDrum.patch": 1,
+            "80SnareDrum.png": 1,
             "Instruments.json": 1
         },
         "Meshes": {
