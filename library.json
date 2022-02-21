@@ -1,6 +1,6 @@
 {
-    "version": 31,
-    "createdAt": "2022-02-21T09:30:29.417Z",
+    "version": 32,
+    "createdAt": "2022-02-21T15:14:28.435Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
@@ -14,6 +14,8 @@
             "BubbleMaker.patch": 1,
             "BubbleMaker.png": 1,
             "Instruments.json": 1,
+            "MarbleCloud.patch": 1,
+            "MarbleCloud.png": 1,
             "Vooper.patch": 1,
             "Vooper.png": 1
         },
