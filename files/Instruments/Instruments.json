@@ -19,31 +19,31 @@
   },
   {
     "file": "Blooper.patch",
-    "category": "Fluid Echoes",
+    "category": "Sample Instruments",
 	"dependencies": [	
 	]
   },
   {
-    "file": "Booper.patch",
-    "category": "Fluid Echoes",
+    "file": "Bopper.patch",
+    "category": "Sample Instruments",
 	"dependencies": [	
 	]
   },
   {
     "file": "BubbleMaker.patch",
-    "category": "Fluid Echoes",
+    "category": "Sample Instruments",
 	"dependencies": [	
 	]
   },
   {
-    "file": "Vooper.patch",
-    "category": "Fluid Echoes",
+    "file": "Boofer.patch",
+    "category": "Sample Instruments",
 	"dependencies": [	
 	]
   },
   {
-    "file": "MarbleCloud.patch",
-    "category": "Rain Maker",
+    "file": "RainCloud.patch",
+    "category": "Physics & Modeling",
 	"dependencies": [	
 	]
   }
