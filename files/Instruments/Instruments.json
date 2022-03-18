@@ -12,6 +12,12 @@
 	]
   },
   {
+    "file": "80HiHat.patch",
+    "category": "Drums",
+	"dependencies": [	
+	]
+  },
+  {
     "file": "Blooper.patch",
     "category": "Fluid Echoes",
 	"dependencies": [	
