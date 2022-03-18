@@ -19,25 +19,25 @@
   },
   {
     "file": "Blooper.patch",
-    "category": "Sample Instruments",
+    "category": "Sample_Instruments",
 	"dependencies": [	
 	]
   },
   {
     "file": "Bopper.patch",
-    "category": "Sample Instruments",
+    "category": "Sample_Instruments",
 	"dependencies": [	
 	]
   },
   {
     "file": "BubbleMaker.patch",
-    "category": "Sample Instruments",
+    "category": "Sample_Instruments",
 	"dependencies": [	
 	]
   },
   {
     "file": "Boofer.patch",
-    "category": "Sample Instruments",
+    "category": "Sample_Instruments",
 	"dependencies": [	
 	]
   },
