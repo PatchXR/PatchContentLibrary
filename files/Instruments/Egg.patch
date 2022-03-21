@@ -1,0 +1,52 @@
+version:181205
+scene_settings:{
+SetPlayerLimit 0 0 0 0 0 0
+bgcolor 0.764699995517731 0.784300029277802 0.776400029659271
+changefogdistance 9
+setMainLight 28.0099964141846 72.0500030517578 354.904998779297 1 1 1
+SetTempo 120
+SetTime 204.522666674951
+SetGameMode Play
+}
+spawn:{
+0 avatar_attach_head inv:True pos:0  trans:[[-0.02583242 1.300436 -0.06010226 -0.03388659 -0.2833767 -0.00388075 0.9584019]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC/vD6rpjXxkAKafVvwYAAAA= 
+1 avatar_attach inv:False pos:1  trans:[[0.1420521 1.171108 0.2594255 -0.3550355 -0.07332636 -0.05811364 0.930159] [0.155404 1.065836 0.1523882 -0.3550355 -0.07332636 -0.05811364 0.930159]] paint:[[1 1 1] [1 1 1]] hash:H4sIAAAAAAAACyvarJu1sQEAYVoxpwYAAAA= 
+2 avatar_attach inv:False pos:2  trans:[[-0.3090876 1.087063 0.2331204 -0.2479763 -0.1395962 0.2639369 0.9216062] [-0.2480786 1.024826 0.110149 -0.2479763 -0.1395962 0.2639369 0.9216062]] paint:[[1 1 1] [1 1 1]] hash:H4sIAAAAAAAAC7PrKmXe2w4AzEf0CAYAAAA= 
+16 gate visib:False ~:[0|0|s] trans:[[-0.3926696 0.9123995 0.3386617 -0.1728885 0.8316572 0.1270958 -0.5121548]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC3t6ROay/l4Am/ES2QYAAAA= 
+18 toggle visib:False state:1  trans:[[-0.3936191 0.9551922 0.3414122 0.1368535 0.8218982 -0.5219144 0.1826465]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC0t2yr1V8RkAHhiRlwYAAAA= 
+19 toggle visib:False state:0  trans:[[-0.3180151 0.9619381 0.3627914 0.1544416 0.7993702 -0.5450162 0.2002815]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC1s8/YLVdGcAy+wRkwYAAAA= 
+17 gate visib:False ~:[0|0|s] trans:[[-0.3180705 0.9190469 0.362631 -0.1500968 0.8495554 0.1042571 -0.4948303]] paint:[[0 0 0]] hash:H4sIAAAAAAAACzO403WNfycAbDx4xwYAAAA= 
+20 get visib:False reversed:False ~:[1.1|-1|s] trans:[[-0.3806065 0.870009 0.4791444 -0.1614075 0.5741067 0.7957129 0.1057839]] paint:[[0 0 0]] hash:H4sIAAAAAAAACzsYdW3nB1kAZhXfpwYAAAA= 
+7 rhythm visib:False offset:[0|-1|s] period:[1|0|s] subdivision:[4|0|s] ~:[0|0|s] trans:[[-0.3378717 1.095219 0.5319685 -0.7525281 0.0006007067 -0.6435549 0.1397787]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC5up5qtoMBcAsUkjxAYAAAA= 
+24 pass_out visib:False  trans:[[-0.2519321 0.9452589 0.3134111 -0.1374585 0.988735 0.04142561 0.04233608]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC3vW3eX6OgoABlNodQYAAAA= 
+12 ep3_egg scale:0.2368688  trans:[[-0.01603767 1.046391 0.3810158 -0.01007071 -0.7887906 0.000746535 0.6145791]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC+ufXfMs2RYA7NbMYgYAAAA= 
+13 if_else visib:False comp:gt_eq ~:[1|0|s] trans:[[-0.04604647 0.851142 0.2828243 -0.3555806 -0.09834097 -0.03670754 0.9287325]] paint:[[0 0 0]] hash:H4sIAAAAAAAACws9tNpxxxMAfvgdHgYAAAA= 
+8 add_jolt visib:False reversed:False ~:[0.326|-3|s] trans:[[-0.008975744 0.8355172 0.5634952 0.1993188 -0.7436945 -0.1102377 0.6285207]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC4sP27th6XEAAlZ/BwYAAAA= 
+21 pass_in visib:False  trans:[[-0.4443088 0.9262021 0.5886331 0.3442076 0.5873007 0.2990806 -0.6686927]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8tv1RP9nAkA2vGZYAYAAAA= 
+26 get visib:False reversed:False ~:[0|1|s] trans:[[-0.08872586 0.8605174 0.166898 -0.2724318 0.1546181 0.6385955 0.7029011]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC9uXc9Duz2UAzCUXigYAAAA= 
+27 add_jolt visib:False reversed:False ~:[0.326|-3|s] trans:[[0.217532 0.9911337 0.3243677 0.285594 -0.7321326 -0.1269426 0.6052302]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC4sP27th6XEAAlZ/BwYAAAA= 
+11 landmark visib:False  trans:[[0.01328659 1.168961 0.2973864 0.01013561 -0.2553504 2.76335E-05 0.9667955]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC1Mw2xEm6gQAbBufhwYAAAA= 
+30 get visib:False reversed:False ~:[0|-3|s] trans:[[0.045199 0.9790127 0.3156454 -0.4846395 0.2733789 0.4798731 0.6783144]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC9uXc9Duz2UAzCUXigYAAAA= 
+10 multiply visib:False ~:[1.1|-1|s 0.06|-2|s] trans:[[-0.01017833 1.139634 0.3030584 0.537248 0.08880748 -0.8068628 0.22902]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC3suudPqUycAh6YbLAYAAAA= 
+14 bubble visib:False openProgress:0 quantize:True outsideBooperPos:[-0.001621827 1.146366 0.3669209] beginTime:0.978 endTime:1.304 isPlaying:False playbackPosition:0.3260312 src:"ByPatchXR\Samples\Objects\EggShaker.wav" ~:[1|0|f 1|0|f] tooltip:"EggShaker\.wav\n\nHit\ to\ play\.\ Touch\ to\ stop\." trans:[[-0.001621827 1.146366 0.3669209 -0.9128227 -0.2576075 0.1431563 -0.2826648]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC7PN/sBcGwcAOiCmdQYAAAA= 
+4 custom_knob2 k_knob:[0.63|-3|s]  trans:[[-0.0002425835 1.068941 0.3802655 -0.6382229 0.351476 0.3508247 0.5882671]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC+sW8Wb5/w4AFzFfzwYAAAA= 
+5 add visib:False ~:[1|0|s 0.5|-1|s] trans:[[0.001630167 1.207909 0.3923524 -0.4960442 0.2246384 0.5436453 -0.6386921]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC/v/SIPV8jQAaE1tZgYAAAA= 
+}
+connections:{
+16 ':[[[19 0] [18 0]]]
+17 ':[[[18 0] [19 0] [24 0]]]
+20 ':[[[17 0]]]
+7 ':[[[20 0]]]
+24 ':[[[14 6]]]
+12 ':[[[10 0] [30 0] [21 0]]]
+13 ':[[[26 0]] []]
+8 ':[[[14 5]]]
+21 ':[[[20 1] [16 0]]]
+26 ':[[[30 1]]]
+27 ':[[[30 1] [13 0]]]
+30 ':[[[27 0] [14 4]]]
+14 ':[[[8 0]] [] []]
+4 ':[[[5 0]]]
+}
+mixer:{
+}

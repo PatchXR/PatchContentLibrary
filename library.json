@@ -1,6 +1,6 @@
 {
-    "version": 35,
-    "createdAt": "2022-03-21T09:58:42.882Z",
+    "version": 36,
+    "createdAt": "2022-03-21T12:38:23.547Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
@@ -19,9 +19,19 @@
             "Bottle.png": 1,
             "BubbleMaker.patch": 1,
             "BubbleMaker.png": 1,
+            "Egg.patch": 1,
+            "Egg.png": 1,
             "Instruments.json": 1,
+            "MatchBox.patch": 1,
+            "MatchBox.png": 1,
             "RainCloud.patch": 1,
-            "RainCloud.png": 1
+            "RainCloud.png": 1,
+            "Sausage.patch": 1,
+            "Sausage.png": 1,
+            "Skull.patch": 1,
+            "Skull.png": 1,
+            "Umbrella.patch": 1,
+            "Umbrella.png": 1
         },
         "Meshes": {
             "bathtub": {
@@ -171,7 +181,13 @@
                 "Zap.wav": 1
             },
             "Objects": {
-                "Bottle.wav": 1
+                "Block.wav": 1,
+                "Bottle.wav": 1,
+                "EggShaker.wav": 1,
+                "Matchbox.wav": 1,
+                "Sausage.wav": 1,
+                "Skull.wav": 1,
+                "Umbrella.wav": 1
             },
             "Synths": {
                 "Synth 1.wav": 1,

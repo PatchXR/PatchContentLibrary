@@ -1,0 +1,43 @@
+version:181205
+scene_settings:{
+SetPlayerLimit 0 0 0 0 0 0
+bgcolor 0.764699995517731 0.784300029277802 0.776400029659271
+changefogdistance 9
+setMainLight 28.0099964141846 72.0500030517578 354.904998779297 1 1 1
+SetTempo 120
+SetTime 99.71199999658
+SetGameMode Play
+}
+spawn:{
+0 avatar_attach_head inv:True pos:0  trans:[[0.00900425 1.308523 -0.002100653 -0.03548668 0.1017892 0.01706543 0.9940264]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC3OL/jfzyiMArNcrGAYAAAA= 
+1 avatar_attach inv:False pos:1  trans:[[0.213446 1.040589 0.2955872 -0.126181 0.05940288 0.1266437 0.9820952] [0.2022962 0.9952875 0.1522656 -0.126181 0.05940288 0.1266437 0.9820952]] paint:[[1 1 1] [1 1 1]] hash:H4sIAAAAAAAAC1sWe9Et5h8A57rwGAYAAAA= 
+2 avatar_attach inv:False pos:2  trans:[[-0.05138512 1.166472 0.2902719 -0.3970246 0.1368289 0.2520102 0.8718602] [-0.05383728 1.048423 0.196591 -0.3970246 0.1368289 0.2520102 0.8718602]] paint:[[1 1 1] [1 1 1]] hash:H4sIAAAAAAAAC7O61ZHIdQ0AOELBIwYAAAA= 
+32 map visib:False ~:[0.5|-1|s 20|1|s 0|0|s 0|0|s 20|1|s] trans:[[-0.05587766 1.201566 0.383607 0.6574507 -0.3516177 -0.5756415 0.3357984]] paint:[[0 0 0]] hash:H4sIAAAAAAAACxPepu9lvQ8A7+owPgYAAAA= 
+33 stoe visib:False type:Default frequency:90 ~:[0|-1|s] trans:[[-0.1055306 1.199729 0.3780193 0.6574507 -0.3516177 -0.5756415 0.3357984]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC9sWL1Yd+xEAsGdrLwYAAAA= 
+35 multiply_jolt visib:False reversed:False ~:[0.04|-2|s] trans:[[-0.004364252 1.062175 0.4305925 0.9217117 0.2265244 -0.1327944 0.2854817]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC5O9W6nwTQEAC8QdKAYAAAA= 
+27 rhythm visib:False offset:[0|-1|s] period:[1|0|s] subdivision:[4|0|s] ~:[0|0|s] trans:[[0.03749087 1.000569 0.5059288 -0.1562932 0.778428 0.03603035 0.6068973]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC5up5qtoMBcAsUkjxAYAAAA= 
+19 toggle visib:False state:0  trans:[[0.06146874 1.233433 0.6163864 -0.05755965 0.744782 0.6268095 -0.221578]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC1s8/YLVdGcAy+wRkwYAAAA= 
+25 toggle visib:False state:1  trans:[[-0.01134066 1.203145 0.6163737 -0.07518853 0.7203048 0.6540481 -0.2184701]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC0t2yr1V8RkAHhiRlwYAAAA= 
+20 get visib:False reversed:False ~:[0.5|-1|s] trans:[[0.02040151 1.23764 0.4608146 0.1783584 -0.6238248 0.7528845 -0.1104352]] paint:[[0 0 0]] hash:H4sIAAAAAAAACzsYdW3nB1kAZhXfpwYAAAA= 
+17 gate visib:False ~:[0|0|s] trans:[[0.04340628 1.267055 0.5968165 -0.6037852 -0.08058219 0.7678059 -0.198555]] paint:[[0 0 0]] hash:H4sIAAAAAAAACzO403WNfycAbDx4xwYAAAA= 
+23 gate visib:False ~:[0|0|s] trans:[[-0.0296185 1.237986 0.5992931 -0.6155344 -0.1137007 0.7588181 -0.1799576]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC3t6ROay/l4Am/ES2QYAAAA= 
+24 pass_out visib:False  trans:[[0.08755443 1.297082 0.6648862 -0.1413345 0.1479487 0.9703719 -0.1285076]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC3vW3eX6OgoABlNodQYAAAA= 
+26 pass_in visib:False  trans:[[0.03490464 1.222245 0.3596583 -0.3916645 -0.4002965 0.492789 -0.6659734]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8tv1RP9nAkA2vGZYAYAAAA= 
+10 ep3_sausage scale:0.0899241  trans:[[0.2830248 1.15372 0.3355869 0.6773247 0.01473913 -0.7264194 0.1154509]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC0ta/KxjfhoA0OxDjQYAAAA= 
+29 landmark visib:False  trans:[[0.2290412 1.14842 0.3875552 0.6149039 0.189984 -0.1733061 0.745496]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC1Mw2xEm6gQAbBufhwYAAAA= 
+15 multiply visib:False ~:[0|0|s 0.12|-2|s] trans:[[0.3816836 1.146653 0.3563966 -0.4409991 0.2621077 0.7466938 -0.4234008]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2uMaavdchYAQYOqaAYAAAA= 
+21 add visib:False ~:[0|0|s 1|0|s] trans:[[0.29363 1.148452 0.4037605 -0.1710365 -0.48366 0.2695925 0.8149477]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC9unKMYZPgsAF1cg8gYAAAA= 
+9 bubble visib:False openProgress:1 quantize:True outsideBooperPos:[0.2561364 1.104766 0.3701349] beginTime:0 endTime:2.608687 isPlaying:False playbackPosition:2.608704 src:"ByPatchXR\Samples\Objects\Sausage.wav" ~:[1|0|f 2|0|f] trans:[[0.2561364 1.104766 0.3701349 0.9613903 0.02264703 -0.2433684 0.1264429]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC3t++bzZoYcAQI/fVAYAAAA= 
+}
+connections:{
+33 ':[[[35 0]]]
+27 ':[[[20 0]]]
+20 ':[[[17 0]]]
+17 ':[[[25 0] [19 0] [24 0]]]
+23 ':[[[19 0] [25 0]]]
+24 ':[[[15 0] [9 6]]]
+26 ':[[[20 1] [23 0]]]
+10 ':[[[26 0] [32 0]]]
+}
+mixer:{
+}

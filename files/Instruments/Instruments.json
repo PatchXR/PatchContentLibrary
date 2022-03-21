@@ -52,5 +52,35 @@
     "category": "Physics & Modeling",
     "dependencies": [
     ]
+  },
+  {
+    "file": "Egg.patch",
+    "category": "Physics & Modeling",
+    "dependencies": [
+    ]
+  },
+  {
+    "file": "MatchBox.patch",
+    "category": "Physics & Modeling",
+    "dependencies": [
+    ]
+  },
+  {
+    "file": "Sausage.patch",
+    "category": "Physics & Modeling",
+    "dependencies": [
+    ]
+  },
+  {
+    "file": "Skull.patch",
+    "category": "Physics & Modeling",
+    "dependencies": [
+    ]
+  },
+  {
+    "file": "Umbrella.patch",
+    "category": "Physics & Modeling",
+    "dependencies": [
+    ]
   }
 ]
