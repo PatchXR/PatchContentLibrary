@@ -1,6 +1,6 @@
 {
-    "version": 34,
-    "createdAt": "2022-03-18T15:07:27.207Z",
+    "version": 35,
+    "createdAt": "2022-03-21T09:58:42.882Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
@@ -15,6 +15,8 @@
             "Boofer.png": 1,
             "Bopper.patch": 1,
             "Bopper.png": 1,
+            "Bottle.patch": 1,
+            "Bottle.png": 1,
             "BubbleMaker.patch": 1,
             "BubbleMaker.png": 1,
             "Instruments.json": 1,
@@ -167,6 +169,9 @@
                 "Sweep 2.wav": 1,
                 "Sweep 3.wav": 1,
                 "Zap.wav": 1
+            },
+            "Objects": {
+                "Bottle.wav": 1
             },
             "Synths": {
                 "Synth 1.wav": 1,

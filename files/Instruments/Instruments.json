@@ -2,49 +2,55 @@
   {
     "file": "80BassDrum.patch",
     "category": "Drums",
-	"dependencies": [	
-	]
+	  "dependencies": [	
+	  ]
   },
   {
     "file": "80SnareDrum.patch",
     "category": "Drums",
-	"dependencies": [	
-	]
+	  "dependencies": [	
+	  ]
   },
   {
     "file": "80HiHat.patch",
     "category": "Drums",
-	"dependencies": [	
-	]
+	  "dependencies": [	
+	  ]
   },
   {
     "file": "Blooper.patch",
     "category": "Sample_Instruments",
-	"dependencies": [	
-	]
+    "dependencies": [	
+    ]
   },
   {
     "file": "Bopper.patch",
     "category": "Sample_Instruments",
-	"dependencies": [	
-	]
+    "dependencies": [	
+    ]
   },
   {
     "file": "BubbleMaker.patch",
     "category": "Sample_Instruments",
-	"dependencies": [	
-	]
+    "dependencies": [	
+    ]
   },
   {
     "file": "Boofer.patch",
     "category": "Sample_Instruments",
-	"dependencies": [	
-	]
+    "dependencies": [	
+    ]
   },
   {
     "file": "RainCloud.patch",
     "category": "Physics & Modeling",
-	"dependencies": [	
-	]
+    "dependencies": [	
+    ]
+  },
+  {
+    "file": "Bottle.patch",
+    "category": "Physics & Modeling",
+    "dependencies": [
+    ]
   }
 ]
