@@ -1,6 +1,6 @@
 {
-    "version": 36,
-    "createdAt": "2022-03-21T12:38:23.547Z",
+    "version": 37,
+    "createdAt": "2022-03-21T14:57:43.455Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
@@ -19,6 +19,8 @@
             "Bottle.png": 1,
             "BubbleMaker.patch": 1,
             "BubbleMaker.png": 1,
+            "Colorizer&fog.patch": 1,
+            "Colorizer&fog.png": 1,
             "Egg.patch": 1,
             "Egg.png": 1,
             "Instruments.json": 1,

@@ -82,5 +82,11 @@
     "category": "Physics & Modeling",
     "dependencies": [
     ]
+  },
+  {
+    "file": "Colorizer&fog.patch",
+    "category": "Visual Machines",
+    "dependencies": [
+    ]
   }
 ]

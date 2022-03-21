@@ -1,0 +1,71 @@
+version:181205
+scene_settings:{
+SetPlayerLimit 0 0 0 0 0 0
+bgcolor 0.601402997970581 0.410174995660782 0.762902975082397
+changefogdistance 500
+setMainLight 28.0099964141846 72.0500030517578 354.904998779297 1 1 1
+SetTempo 120
+SetTime 5495.61598581091
+SetGameMode Play
+}
+spawn:{
+0 avatar_attach_head inv:True pos:0  trans:[[0.05476598 1.234575 -0.2893428 0.05156939 -0.3815769 0.03031383 0.9223997]] paint:[[1 1 1]] hash:H4sIAAAAAAAACzv1++SRrTsAbgO+/wYAAAA= 
+1 avatar_attach inv:False pos:1  trans:[[0.2376991 0.9732534 0.07697514 -0.2192784 -0.2314675 -0.1522512 0.9354997] [0.290508 0.8956221 -0.04093237 -0.2192784 -0.2314676 -0.1522511 0.9354997]] paint:[[1 1 1] [1 1 1]] hash:H4sIAAAAAAAAC1MSYKlf6gEAKKv+4AYAAAA= 
+2 avatar_attach inv:False pos:2  trans:[[-0.3383847 1.036425 -0.05300164 -0.2397241 -0.3014979 0.2406603 0.8909064] [-0.2383698 0.9892616 -0.1554225 -0.2397244 -0.3014979 0.2406601 0.8909066]] paint:[[1 1 1] [1 1 1]] hash:H4sIAAAAAAAAC1sYWiiyYSMApMJ+AwYAAAA= 
+4 execute visib:False ~:[0|0|s 0|0|s 0|0|s 0|0|s] ti:["bgcolor :1 :2 :3"] trans:[[-0.1360181 0.5875735 0.9122727 -0.01318086 -0.03278072 -0.007618243 -0.9993467]] paint:[[0.990566 0.990566 0.990566]] hash:H4sIAAAAAAAAC1snvVoj7CYAUG4+OgYAAAA= 
+5 slider state:0.762903273105621 length:0.3 trans:[[-0.006694794 0.7890511 0.8386669 -0.6690393 0.2655048 -0.264784 -0.6417033]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2PSEtikGwMA3A1PowYAAAA= 
+6 slider state:0.410174608230591 length:0.3 trans:[[-0.1454222 0.7884386 0.8463857 0.6725988 -0.2516441 0.2545094 0.6476967]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2PSEtikGwMA3A1PowYAAAA= 
+7 slider state:0.601402699947357 length:0.3 trans:[[-0.2852399 0.7871181 0.8551965 0.5251278 -0.4883184 0.4814358 0.5039895]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2PSEtikGwMA3A1PowYAAAA= 
+8 get visib:False reversed:False ~:[0|-1|s] trans:[[-0.1311271 0.6836162 1.05674 0.006097023 -0.9993653 -0.01775127 0.03027683]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC9NNsK1J5wUAk/BlmAYAAAA= 
+3 fork ~:[0|0|s] trans:[[-0.006694794 0.7890511 0.8386669 -0.6731051 0.2550212 -0.2547275 -0.6457613]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC6spLtxc9RUAWebMfwYAAAA= 
+9 fork_output visib:False  trans:[[-0.06843751 0.6868082 0.9311645 0.02511603 0.01945472 0.3917184 0.9195366]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC3O/fZ1vygQAT6WFCQYAAAA= 
+10 fork_output visib:False  trans:[[-0.09749419 0.5892522 0.8703797 -0.4728834 -0.4936822 0.5132826 0.5188454]] paint:[[1 1 1]] hash:H4sIAAAAAAAACyu6me8xzQ4AWxt7iAYAAAA= 
+11 stoe visib:False type:Default frequency:90 ~:[0|-1|s] trans:[[-0.06566474 0.6852607 0.9810636 0.02511606 0.01945468 0.3917184 0.9195366]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2sJ2VVe8BkAHZSK0QYAAAA= 
+12 fork ~:[0|0|s] trans:[[-0.1454222 0.7884386 0.8463857 0.6725988 -0.2516441 0.2545094 0.6476967]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC1M9UarR3gUAeLXWLAYAAAA= 
+14 fork_output visib:False  trans:[[-0.1379781 0.62859 0.8740662 0.02856619 -0.715965 0.6973249 0.01779259]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC+OYv2m1OwcAb/Zy3QYAAAA= 
+13 fork_output visib:False  trans:[[-0.1374765 0.6863732 0.9353795 0.0318093 -0.002991109 0.9255612 0.3772476]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC1P4pqSx8DUA3ce7zQYAAAA= 
+15 fork ~:[0|0|s] trans:[[-0.2852399 0.7871181 0.8551965 0.5251278 -0.4883184 0.4814358 0.5039895]] paint:[[1 1 1]] hash:H4sIAAAAAAAACyvYM/W/x04AKaLM0QYAAAA= 
+16 fork_output visib:False  trans:[[-0.177313 0.5879649 0.8756052 0.5132822 -0.518845 0.4728836 -0.4936828]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC/t24/VPoS0AH+YfxAYAAAA= 
+17 fork_output visib:False  trans:[[-0.2078317 0.6838483 0.9389845 -0.03226438 -0.002616256 -0.8362473 -0.5473962]] paint:[[1 1 1]] hash:H4sIAAAAAAAACzsgmfvivhYAJPR8fgYAAAA= 
+18 stoe visib:False type:Default frequency:90 ~:[0|-1|s] trans:[[-0.2049904 0.6823009 0.9888797 -0.03226434 -0.002616249 -0.8362473 -0.5473962]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2sJ2VVe8BkAHZSK0QYAAAA= 
+19 stoe visib:False type:Default frequency:90 ~:[0|-1|s] trans:[[-0.1346452 0.6848964 0.9852775 0.03180929 -0.002991073 0.9255612 0.3772476]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2sJ2VVe8BkAHZSK0QYAAAA= 
+20 txt width:0.09727222 height:0.06693644 fontsize:120 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:True ti:["Red"] trans:[[-0.2907249 1.187527 0.8664619 0.01312613 0.02737141 0.005373363 0.9995247]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8sxYZ5y4AIAnMrTPwYAAAA= 
+21 txt width:0.09727222 height:0.06693644 fontsize:120 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:True ti:["Green"] trans:[[-0.1492505 1.189916 0.8575597 -0.01074585 -0.02565676 -0.002529021 -0.9996099]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8sxYZ5y4AIAnMrTPwYAAAA= 
+22 txt width:0.09727222 height:0.06693644 fontsize:120 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:True ti:["Blue"] trans:[[-0.008339852 1.191464 0.8509222 0.01332692 0.02923578 0.003482318 0.9994776]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8sxYZ5y4AIAnMrTPwYAAAA= 
+23 txt width:0.09727222 height:0.06693644 fontsize:120 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:True ti:["Background color"] trans:[[-0.1502579 1.28908 0.8616657 0.01421912 0.02945466 0.006398374 0.9994445]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8sxYZ5y4AIAnMrTPwYAAAA= 
+24 execute visib:False ~:[0|0|s 0|0|s 0|0|s 0|0|s] ti:["changefogdistance :1"] trans:[[0.6468505 0.603169 0.8750503 -0.0103089 -0.02918188 -0.008860521 -0.9994817]] paint:[[0.990566 0.990566 0.990566]] hash:H4sIAAAAAAAAC1snvVoj7CYAUG4+OgYAAAA= 
+27 fork_output  trans:[[0.489428 0.8473622 0.8118896 0.01760367 -0.6885737 -0.00287031 0.724947]] paint:[[1 1 1]] hash:H4sIAAAAAAAACzsgmfvivhYAJPR8fgYAAAA= 
+28 stoe visib:False type:Default frequency:90 ~:[0|-1|s] trans:[[0.6406142 0.6957512 0.940124 0.02252167 -0.0193112 0.9786478 -0.2033923]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2sJ2VVe8BkAHZSK0QYAAAA= 
+30 get visib:False reversed:False ~:[0|2|s] trans:[[0.6504433 0.7000315 1.019008 0.007362991 -0.9995061 -0.01488791 0.02667961]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC9NNsK1J5wUAk/BlmAYAAAA= 
+38 slider state:1 length:0.3 trans:[[0.6309518 0.899744 0.805595 -0.2987896 0.6521946 -0.6374253 -0.2811695]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC2PSEtikGwMA3A1PowYAAAA= 
+39 fork visib:False ~:[0|0|s] trans:[[0.6323675 0.7997969 0.8026685 0.5256295 -0.4882073 0.4813052 0.5036989]] paint:[[1 1 1]] hash:H4sIAAAAAAAACyvYM/W/x04AKaLM0QYAAAA= 
+42 txt width:0.09727222 height:0.06693644 fontsize:120 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:True ti:["Fog distance"] trans:[[0.6311882 1.304342 0.8204018 0.01135552 0.02585351 0.007653898 0.999572]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC8sxYZ5y4AIAnMrTPwYAAAA= 
+44 fork_output visib:False  trans:[[0.605823 0.603248 0.8380818 0.5136075 -0.5150559 0.4755653 -0.4947347]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC/t24/VPoS0AH+YfxAYAAAA= 
+45 multiply visib:False ~:[0|-1|s 500|2|s] trans:[[0.6323675 0.7997969 0.8026685 -0.7168908 -0.02646148 0.01583475 -0.6965032]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC7sq+FU3RgMAiRsnDAYAAAA= 
+25 readout value:500 numDecimals:2 ~:[0|0|s] trans:[[0.489428 0.8473622 0.8118896 0.01760371 -0.6885738 -0.002870251 0.7249469]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC1NZp/bgBjcAqXFgEAYAAAA= 
+32 fork_output visib:False  trans:[[0.6380174 0.697183 0.890212 0.02252166 -0.01931121 0.9786478 -0.2033924]] paint:[[1 1 1]] hash:H4sIAAAAAAAAC5upwvD9yyMAVK21MQYAAAA= 
+26 landmark visib:False  trans:[[0.2457742 1.035507 0.8308276 0.02762844 -0.009870015 0.01361374 0.9994769]] paint:[[0 0 0]] hash:H4sIAAAAAAAAC5uveor1118AXu63ZgYAAAA= 
+}
+connections:{
+8 ':[[[4 0]]]
+3 SEL:[0 [visibles:[1 1] parts:[[9 0] [10 0]]]]
+9 <:[[11 0]]
+10 <:[[4 2]]
+11 ':[[[8 0]]]
+12 SEL:[0 [visibles:[1 1] parts:[[14 0] [13 0]]]]
+14 <:[[4 1]]
+13 <:[[19 0]]
+15 SEL:[0 [visibles:[1 1] parts:[[16 0] [17 0]]]]
+16 <:[[4 0]]
+17 <:[[18 0]]
+18 ':[[[8 0]]]
+19 ':[[[8 0]]]
+27 <:[[25 0]]
+28 ':[[[30 0]]]
+30 ':[[[24 0]]]
+39 SEL:[0 [visibles:[1 1 1] parts:[[44 0] [27 0] [32 0]]]]
+44 <:[[24 0]]
+32 <:[[28 0]]
+}
+mixer:{
+}
