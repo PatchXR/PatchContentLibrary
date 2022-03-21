@@ -88,5 +88,11 @@
     "category": "Visual Machines",
     "dependencies": [
     ]
+  },
+  {
+    "file": "BlobFilter.patch",
+    "category": "Utilities",
+    "dependencies": [
+    ]
   }
 ]
