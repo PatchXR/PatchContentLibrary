@@ -94,5 +94,11 @@
     "category": "Utilities",
     "dependencies": [
     ]
+  },
+  {
+    "file": "BlobPluck.patch",
+    "category": "Synths",
+    "dependencies": [
+    ]
   }
 ]
