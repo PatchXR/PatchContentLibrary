@@ -106,5 +106,11 @@
     "category": "Synths",
     "dependencies": [
     ]
+  },
+  {
+    "file": "BlobScreen.patch",
+    "category": "Sequencers & Interfaces",
+    "dependencies": [
+    ]
   }
 ]
