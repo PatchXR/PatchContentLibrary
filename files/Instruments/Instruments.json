@@ -100,5 +100,11 @@
     "category": "Synths",
     "dependencies": [
     ]
+  },
+  {
+    "file": "BlobBass.patch",
+    "category": "Synths",
+    "dependencies": [
+    ]
   }
 ]

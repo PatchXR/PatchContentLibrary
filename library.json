@@ -1,6 +1,6 @@
 {
-    "version": 42,
-    "createdAt": "2022-03-25T08:24:18.599Z",
+    "version": 43,
+    "createdAt": "2022-03-25T14:42:54.070Z",
     "files": {
         "Instruments": {
             "80BassDrum.patch": 1,
@@ -9,6 +9,7 @@
             "80HiHat.png": 1,
             "80SnareDrum.patch": 1,
             "80SnareDrum.png": 1,
+            "BlobBass.patch": 1,
             "BlobFilter.patch": 1,
             "BlobFilter.png": 1,
             "BlobPluck.patch": 1,
