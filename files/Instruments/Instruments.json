@@ -112,5 +112,11 @@
     "category": "Sequencers & Interfaces",
     "dependencies": [
     ]
+  },
+  {
+    "file": "Arpo.patch",
+    "category": "Sequencers & Interfaces",
+    "dependencies": [
+    ]
   }
 ]
