@@ -91,7 +91,7 @@
   },
   {
     "file": "BlobFilter.patch",
-    "category": "Utilities",
+    "category": "Effects",
     "dependencies": [
     ]
   },
@@ -103,6 +103,12 @@
   },
   {
     "file": "BlobBass.patch",
+    "category": "Synths",
+    "dependencies": [
+    ]
+  },
+  {
+    "file": "BlobLead.patch",
     "category": "Synths",
     "dependencies": [
     ]
