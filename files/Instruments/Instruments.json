@@ -93,7 +93,8 @@
     "file": "BlobFilter.patch",
     "category": "Blob Machines",
     "dependencies": [
-    ]
+    ],
+    "description": "Cool filter."
   },
   {
     "file": "BlobBell.patch",
