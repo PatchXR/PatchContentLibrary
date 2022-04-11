@@ -43,43 +43,43 @@
   },
   {
     "file": "RainCloud.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [	
     ]
   },
   {
     "file": "Bottle.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [
     ]
   },
   {
     "file": "Egg.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [
     ]
   },
   {
     "file": "MatchBox.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [
     ]
   },
   {
     "file": "Sausage.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [
     ]
   },
   {
     "file": "Skull.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [
     ]
   },
   {
     "file": "Umbrella.patch",
-    "category": "Physics & Modeling",
+    "category": "Marble Rain",
     "dependencies": [
     ]
   },
@@ -91,31 +91,37 @@
   },
   {
     "file": "BlobFilter.patch",
-    "category": "Effects",
+    "category": "Blob Machines",
     "dependencies": [
     ]
   },
   {
-    "file": "BlobPluck.patch",
-    "category": "Synths",
+    "file": "BlobBell.patch",
+    "category": "Blob Machines",
     "dependencies": [
     ]
   },
   {
     "file": "BlobBass.patch",
-    "category": "Synths",
+    "category": "Blob Machines",
     "dependencies": [
     ]
   },
   {
     "file": "BlobLead.patch",
-    "category": "Synths",
+    "category": "Blob Machines",
     "dependencies": [
     ]
   },
   {
     "file": "BlobScreen.patch",
-    "category": "Sequencers & Interfaces",
+    "category": "Blob Machines",
+    "dependencies": [
+    ]
+  },
+  {
+    "file": "BlobDrums.patch",
+    "category": "Blob Machines",
     "dependencies": [
     ]
   },
