@@ -1,7 +1,10 @@
 {
-    "version": 52,
-    "createdAt": "2022-04-11T11:28:02.122Z",
+    "version": 53,
+    "createdAt": "2022-06-02T11:50:36.494Z",
     "files": {
+        "images": {
+            "nested": {}
+        },
         "Instruments": {
             "80BassDrum.patch": 1,
             "80BassDrum.png": 1,
@@ -10,18 +13,14 @@
             "80SnareDrum.patch": 1,
             "80SnareDrum.png": 1,
             "Arpo.patch": 1,
-            "BlobBass.patch": 1,
-            "BlobBass.png": 1,
-            "BlobBell.patch": 1,
-            "BlobBell.png": 1,
             "BlobDrums.patch": 1,
             "BlobDrums.png": 1,
             "BlobFilter.patch": 1,
             "BlobFilter.png": 1,
-            "BlobLead.patch": 1,
-            "BlobLead.png": 1,
             "BlobScreen.patch": 1,
             "BlobScreen.png": 1,
+            "BlobSynth.patch": 1,
+            "BlobSynth.png": 1,
             "Blooper.patch": 1,
             "Blooper.png": 1,
             "Boofer.patch": 1,

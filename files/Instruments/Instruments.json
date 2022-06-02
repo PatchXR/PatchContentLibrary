@@ -97,19 +97,7 @@
     "description": "Cool filter."
   },
   {
-    "file": "BlobBell.patch",
-    "category": "Blob Machines",
-    "dependencies": [
-    ]
-  },
-  {
-    "file": "BlobBass.patch",
-    "category": "Blob Machines",
-    "dependencies": [
-    ]
-  },
-  {
-    "file": "BlobLead.patch",
+    "file": "BlobSynth.patch",
     "category": "Blob Machines",
     "dependencies": [
     ]
