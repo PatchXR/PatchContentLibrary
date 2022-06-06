@@ -1,23 +1,5 @@
 [
   {
-    "file": "80BassDrum.patch",
-    "category": "Drums",
-	  "dependencies": [	
-	  ]
-  },
-  {
-    "file": "80SnareDrum.patch",
-    "category": "Drums",
-	  "dependencies": [	
-	  ]
-  },
-  {
-    "file": "80HiHat.patch",
-    "category": "Drums",
-	  "dependencies": [	
-	  ]
-  },
-  {
     "file": "Blooper.patch",
     "category": "Bubble Samplers",
     "dependencies": [	
@@ -103,20 +85,8 @@
     ]
   },
   {
-    "file": "BlobScreen.patch",
-    "category": "Blob Machines",
-    "dependencies": [
-    ]
-  },
-  {
     "file": "BlobDrums.patch",
     "category": "Blob Machines",
-    "dependencies": [
-    ]
-  },
-  {
-    "file": "Arpo.patch",
-    "category": "Sequencers & Interfaces",
     "dependencies": [
     ]
   }
