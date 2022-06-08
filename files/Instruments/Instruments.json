@@ -3,31 +3,36 @@
     "file": "Blooper.patch",
     "category": "Bubble Samplers",
     "dependencies": [	
-    ]
+    ],
+    "description": "Magical bubble looper. Hit it to toggle it on/off. Move your controller over the spinning part to engage and control the stutter effect."
   },
   {
     "file": "Bopper.patch",
     "category": "Bubble Samplers",
     "dependencies": [	
-    ]
+    ],
+    "description": "Magical instrument which you can use to play bubbles. You can trigger the sound by hitting each of its sides. The pitch is quantized to global scale."
   },
   {
     "file": "BubbleMaker.patch",
     "category": "Bubble Samplers",
     "dependencies": [	
-    ]
+    ],
+    "description": "Use it to capture your voice into new bubbles by clicking the toggle."
   },
   {
     "file": "Boofer.patch",
     "category": "Bubble Samplers",
     "dependencies": [	
-    ]
+    ],
+    "description": "Magical instrument which you can use to play bubbles. You can trigger the sound by hitting it and control the pitch by pulling the encabulator."
   },
   {
     "file": "RainCloud.patch",
     "category": "Marble Rain",
     "dependencies": [	
-    ]
+    ],
+    "description": "Make it rain, marbles."
   },
   {
     "file": "Bottle.patch",
@@ -69,25 +74,28 @@
     "file": "Colorizer&fog.patch",
     "category": "Visual Machines",
     "dependencies": [
-    ]
+    ],
+    "description": "Change patch background color and control distance of the mysterious fog."
   },
   {
     "file": "BlobFilter.patch",
     "category": "Blob Machines",
     "dependencies": [
     ],
-    "description": "Cool filter."
+    "description": "Pull to add noise to your track."
   },
   {
     "file": "BlobSynth.patch",
     "category": "Blob Machines",
     "dependencies": [
-    ]
+    ],
+    "description": "Play synthesizers using motion controlled blob screen sequencers."
   },
   {
     "file": "BlobDrums.patch",
     "category": "Blob Machines",
     "dependencies": [
-    ]
+    ],
+    "description": "Trigger sequencer designed to work best with drum samples bubbles. Use the blob screen to control the sound and for switching between trigger patterns."
   }
 ]
