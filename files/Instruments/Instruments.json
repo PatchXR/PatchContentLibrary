@@ -71,13 +71,6 @@
     ]
   },
   {
-    "file": "Colorizer&fog.patch",
-    "category": "Visual Machines",
-    "dependencies": [
-    ],
-    "description": "Change patch background color and control distance of the mysterious fog."
-  },
-  {
     "file": "BlobFilter.patch",
     "category": "Blob Machines",
     "dependencies": [
@@ -97,5 +90,61 @@
     "dependencies": [
     ],
     "description": "Trigger sequencer designed to work best with drum samples bubbles. Use the blob screen to control the sound and for switching between trigger patterns."
+  },
+  {
+    "file": "Acidic.patch",
+    "category": "Sound Boxes",
+    "dependencies": [
+    ],
+    "description": "303 replica."
+  },
+  {
+    "file": "DirtBox.patch",
+    "category": "Sound Boxes",
+    "dependencies": [
+    ],
+    "description": "Clip distortion effect."
+  },
+  {
+    "file": "DrumBox.patch",
+    "category": "Sound Boxes",
+    "dependencies": [
+    ],
+    "description": "Drum synthesizer with simple trigger sequencer."
+  },
+  {
+    "file": "EchoBox.patch",
+    "category": "Sound Boxes",
+    "dependencies": [
+    ],
+    "description": "Delay effect."
+  },
+  {
+    "file": "KickBox.patch",
+    "category": "Sound Boxes",
+    "dependencies": [
+    ],
+    "description": "Kick drum synthesizer with simple trigger sequencer."
+  },
+  {
+    "file": "MixBox.patch",
+    "category": "Sound Boxes",
+    "dependencies": [
+    ],
+    "description": "4 channel stereo mixer."
+  },
+  {
+    "file": "Background Color.patch",
+    "category": "Utility",
+    "dependencies": [
+    ],
+    "description": "3D background color picker."
+  },
+  {
+    "file": "Ghost Station.patch",
+    "category": "Utility",
+    "dependencies": [
+    ],
+    "description": "4 channel ghost looper."
   }
 ]

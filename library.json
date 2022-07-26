@@ -1,11 +1,15 @@
 {
-    "version": 56,
-    "createdAt": "2022-06-09T11:24:30.356Z",
+    "version": 57,
+    "createdAt": "2022-07-26T11:35:03.184Z",
     "files": {
         "images": {
             "nested": {}
         },
         "Instruments": {
+            "Acidic.patch": 1,
+            "Acidic.png": 1,
+            "Background Color.patch": 1,
+            "Background Color.png": 1,
             "BlobDrums.patch": 1,
             "BlobDrums.png": 1,
             "BlobFilter.patch": 1,
@@ -22,13 +26,23 @@
             "Bottle.png": 1,
             "BubbleMaker.patch": 1,
             "BubbleMaker.png": 1,
-            "Colorizer&fog.patch": 1,
-            "Colorizer&fog.png": 1,
+            "DirtBox.patch": 1,
+            "DirtBox.png": 1,
+            "DrumBox.patch": 1,
+            "DrumBox.png": 1,
+            "EchoBox.patch": 1,
+            "EchoBox.png": 1,
             "Egg.patch": 1,
             "Egg.png": 1,
+            "Ghost Station.patch": 1,
+            "Ghost Station.png": 1,
             "Instruments.json": 1,
+            "KickBox.patch": 1,
+            "KickBox.png": 1,
             "MatchBox.patch": 1,
             "MatchBox.png": 1,
+            "MixBox.patch": 1,
+            "MixBox.png": 1,
             "RainCloud.patch": 1,
             "RainCloud.png": 1,
             "Sausage.patch": 1,
@@ -117,7 +131,6 @@
         },
         "Samples": {
             "Bass": {
-                "Acid melo.png": 1,
                 "Acid melo.wav": 1,
                 "Busted.wav": 1,
                 "Buzzer.wav": 1,

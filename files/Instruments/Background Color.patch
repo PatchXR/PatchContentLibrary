@@ -1,0 +1,37 @@
+version:181205
+scene_settings:{
+SetPlayerLimit 0 0 0 0 0 0
+bgcolor 0.300226747989655 0.585261166095734 0.667831003665924
+changefogdistance 9
+setMainLight 28.0099964141846 72.0500030517578 354.904998779297 1 1 1
+SetTempo 120
+SetTime 4582.87195391992
+SetGameMode Play
+}
+spawn:{
+22 custom_knob k_knob:[0.54|-2|s]  trans:[[1.248161 1.426445 0.4778335 -0.02706202 -0.4226552 0.0281032 -0.9054504]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA/Oa3+5mPAsA8lh/rAYAAAA= 
+4 slider_3d x:0.2074029 y:0.2652415 z:0.1856946 w:0 Mesh:0 extend:[0.3859122 0.3971683 0.3373537]  trans:[[1.072849 1.175721 0.6579909 0.00809571 -0.4460211 0.0144675 -0.8948688] [1.042027 1.33865 0.4813939 0.008095699 -0.4460209 0.01446747 -0.8948689] [1.110794 1.173052 0.6834157 0.4339001 -0.2728286 0.7335345 -0.4463435] [1.071682 1.130336 0.6564606 -0.5189412 -0.4594034 0.4825866 -0.5354986] [1.046038 1.181857 0.6947504 -0.2949798 0.1949015 0.7859578 -0.5072185]] paint:[[0 0 0] [0 0 0] [0 0 0] [0 0 0] [0 0 0]] hash:H4sIAAAAAAAAAzPY8+Rh3zcAD81sYAYAAAA= 
+223 txt width:0.09727222 height:0.06693644 fontsize:129.4049 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:False ti:["Value"] ti_settings:[[False 0.4658576 514]] trans:[[1.080037 1.167318 0.4028098 0.6405345 -0.2427894 0.2238687 0.6932904]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA8sxYZ5y4AIAnMrTPwYAAAA= 
+24 custom_knob k_knob:[0.67|-2|s]  trans:[[1.003848 1.160384 0.3521836 -0.6424733 0.2363695 -0.232041 -0.6910242]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA/Oa3+5mPAsA8lh/rAYAAAA= 
+224 stoe visib:False ~:[0|-1|s] trans:[[1.07124 1.080376 0.6584255 -0.176253 -0.6702882 0.6987633 -0.1771401]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA2sJ2VVe8BkAHZSK0QYAAAA= 
+230 stoe visib:False ~:[7|0|s] trans:[[1.154799 1.172406 0.7071452 0.5052785 -0.08601437 0.8485057 -0.1316561]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA2sJ2VVe8BkAHZSK0QYAAAA= 
+15 pass visib:False  trans:[[1.076708 1.041465 0.6800531 0.6731501 0.3929993 0.3819859 -0.496495]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA5vGsPvxlkIAidmBvAYAAAA= 
+229 stoe visib:False ~:[0|-1|s] trans:[[1.012968 1.182213 0.7322505 0.1369853 -0.3259366 -0.3717046 0.8583915]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA2sJ2VVe8BkAHZSK0QYAAAA= 
+14 pass visib:False  trans:[[1.166406 1.170544 0.7324974 -0.005339838 0.9534442 -0.04594107 -0.2980018]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA1twaMUGsXMAbJ7OFgYAAAA= 
+236 execute visib:False ~:[1|0|s 1|0|s 1|0|s 0|0|s] ti:["BgColorHSV :1 :2 :3"] ti_settings:[[True 0.3619199 514]] trans:[[1.099701 1.160711 0.7916881 0.01228146 0.9987495 -0.009424033 -0.04753802]] paint:[[0.990566 0.990566 0.990566]] hash:H4sIAAAAAAAAA1snvVoj7CYAUG4+OgYAAAA= 
+23 custom_knob k_knob:[0.55|-2|s]  trans:[[0.8400061 1.437241 0.4985169 0.03129817 0.3235486 0.03041703 -0.9452045]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA/Oa3+5mPAsA8lh/rAYAAAA= 
+10 txt width:0.09727222 height:0.06693644 fontsize:85.10937 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:False ti:["Saturation"] ti_settings:[[False 0.3063937 514]] trans:[[0.9388864 1.436337 0.5665429 -0.04810212 -0.3126287 -0.009510182 0.9486091]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA8sxYZ5y4AIAnMrTPwYAAAA= 
+9 txt width:0.09727222 height:0.06693644 fontsize:129.4049 align:Center canvasMode:Text_control_canvas overflow:Overflow bg:False ti:["Hue"] ti_settings:[[False 0.4658577 514]] trans:[[1.202144 1.428451 0.5285829 0.03236336 0.4398066 -0.01488654 0.8973857]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA8sxYZ5y4AIAnMrTPwYAAAA= 
+0 pass visib:False  trans:[[0.9739274 1.191344 0.7788686 0.8573054 0.4508536 0.2454316 -0.03901093]] paint:[[0 0 0]] hash:H4sIAAAAAAAAA5vGsPvxlkIAidmBvAYAAAA= 
+}
+connections:{
+224 ':[[[15 0] [24 0]]]
+229 ':[[[23 0] [0 0]]]
+230 ':[[[14 0] [22 0]]]
+14 ':[[[236 1] [236 0]]]
+15 ':[[[236 0] [236 3]]]
+22 ':[[[14 0]]]
+23 ':[[[0 0]]]
+24 ':[[[15 0]]]
+0 ':[[[236 2] [236 0]]]
+}
