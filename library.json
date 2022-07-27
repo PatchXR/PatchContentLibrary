@@ -1,6 +1,6 @@
 {
-    "version": 57,
-    "createdAt": "2022-07-26T11:35:03.184Z",
+    "version": 58,
+    "createdAt": "2022-07-27T14:56:45.527Z",
     "files": {
         "images": {
             "nested": {}
@@ -41,6 +41,8 @@
             "KickBox.png": 1,
             "MatchBox.patch": 1,
             "MatchBox.png": 1,
+            "Metronome.patch": 1,
+            "Metronome.png": 1,
             "MixBox.patch": 1,
             "MixBox.png": 1,
             "RainCloud.patch": 1,

@@ -146,5 +146,12 @@
     "dependencies": [
     ],
     "description": "4 channel ghost looper."
+  },
+  {
+    "file": "Metronome.patch",
+    "category": "Utility",
+    "dependencies": [
+    ],
+    "description": "Metronome together with global tempo control."
   }
 ]
